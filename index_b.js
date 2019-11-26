@@ -6,3 +6,4 @@ add testB_004
 add testB_005
 add testB_006
 add testB_007
+add testB_008
