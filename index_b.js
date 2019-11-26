@@ -6,3 +6,4 @@ add tc003
 add tc004
 add tc005
 add tc006
+add tc007
